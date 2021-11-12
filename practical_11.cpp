@@ -46,4 +46,5 @@ Time c(35,40);
 c.showdata();
 Time d(2,39, 43);
 d.showdata();
+return 0;
 }

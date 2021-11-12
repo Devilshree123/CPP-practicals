@@ -8,7 +8,7 @@ int main()
     cout<<"\t\t\t_____________________________________"<<endl;
     cout<<"\t\t\t1.Check your eligibility for voting "<<endl;
     cout<<"\t\t\t2.Exit"<<endl;
-    cout<<"\t\t    ==>";
+    cout<<"\t\t";
     cin>>a;
     switch (a)
     {
