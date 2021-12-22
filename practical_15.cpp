@@ -21,8 +21,8 @@ Weight operator + (Weight& W1)
     W2.gm = gm + W1.gm;
     return W2;
 }
-
 };
+
 int main(){
 
     Weight W,W3,W4;
